@@ -1,0 +1,28 @@
+name: Snake CI Workflow
+
+on:
+  push:
+    branches:
+      - main  # Trigger this workflow on pushes to the main branch
+  pull_request:
+    branches:
+      - main  # Trigger this workflow on pull requests targeting the main branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # Use the latest Ubuntu environment
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up JDK
+        uses: actions/setup-java@v2
+        with:
+          java-version: '11'  # Set the Java version you need
+
+      - name: Build with Gradle
+        run: ./gradlew build  # Replace with your build command if different
+
+      - name: Run Tests
+        run: ./gradlew test  # Replace with your test command if different
