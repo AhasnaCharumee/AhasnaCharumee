@@ -36,8 +36,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahasnacharumee&show_icons=true&theme=tokyonight)
 
-### 🔄 GitHub Contribution Snake:
-![Snake animation](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ahasnacharumee/ahasnacharumee/blob/output/github-contribution-grid-snake.svg)
+
