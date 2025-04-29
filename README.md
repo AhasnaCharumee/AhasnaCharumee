@@ -37,8 +37,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahasnacharumee&show_icons=true&theme=tokyonight)
-[![Snake animation](https://github.com/ahasnacharumee/ahasnacharumee/blob/output/github-contribution-grid-snake.svg)
-![Snake animation](https://raw.githubusercontent.com/ahasnacharumee/ahasnacharumee/output/github-contribution-grid-snake.svg)](https://github.com/AhasnaCharumee/AhasnaCharumee/blob/main/.github/workflows/snake.yml)
+
 
 
 
