@@ -1,12 +1,104 @@
-# Hi, I'm Ahasna Charumee 👋
+<div align="center">
+  <h1>Hi there, I'm Ahasna Charumee! 👋</h1>
+  <p>Welcome to my GitHub profile!</p>
 
-Welcome to my GitHub profile!
+  <!-- Badges Section -->
+  <p>
+    <a href="https://www.linkedin.com/in/ahasna-charumee/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=AhasnaCharumee&style=for-the-badge&color=blue" alt="Profile Views" />
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AhasnaCharumee/AhasnaCharumee/blob/output/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AhasnaCharumee/AhasnaCharumee/blob/output/dist/github-contribution-grid-snake.svg">
-  <img alt="Snake Animation" src="https://github.com/AhasnaCharumee/AhasnaCharumee/blob/output/dist/github-contribution-grid-snake.svg">
-</picture>
+---
 
-## About Me
-I’m Ahasna Charumee, a passionate software engineering student at the Institute of Software Engineering, based in Welipitiya, Sri Lanka. I specialize in crafting innovative solutions using Java, JavaFX, MySQL, and web technologies like HTML, CSS, and JavaScript. With a keen interest in UI/UX design (using Figma) and full-stack development, I enjoy building projects ranging from academic systems to interactive web apps, such as the Driving School Management System and my personal portfolio. When I’m not coding, I explore photography and writing. Let’s connect to collaborate or learn together!
+## 🚀 About Me
+
+I'm Ahasna Charumee, a passionate software engineering student at the Institute of Software Engineering, based in Welipitiya, Sri Lanka.
+
+My journey in tech is driven by a keen interest in **UI/UX design (using Figma)** and **full-stack development**. I love building projects that range from academic systems to interactive web applications, such as the Driving School Management System and my personal portfolio.
+
+When I'm not immersed in code, you can find me exploring **photography** and **writing**. I'm always eager to connect, collaborate, and learn new things!
+
+---
+
+## 🛠️ Technologies & Tools
+
+Here are some of the technologies and tools I work with:
+
+**Languages:**
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+**Frameworks & Libraries:**
+<p>
+  <img src="https://img.shields.io/badge/JavaFX-80BD00?style=for-the-badge&logo=javafx&logoColor=white" alt="JavaFX" />
+  <!-- Add more frameworks/libraries as needed, e.g., React, Next.js, Node.js -->
+</p>
+
+**Databases:**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+**Tools & Platforms:**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <!-- Add more tools as needed, e.g., VS Code, Docker -->
+</p>
+
+---
+
+## 💡 Projects
+
+Here are some of my notable projects:
+
+-   **Driving School Management System:** A comprehensive system developed using [mention technologies, e.g., Java, MySQL] to manage driving school operations.
+    -   [Link to Project Repository](https://github.com/AhasnaCharumee/your-driving-school-project) (Replace with actual link)
+-   **Personal Portfolio Website:** My personal website showcasing my skills, projects, and experiences, built with [mention technologies, e.g., HTML, CSS, JavaScript].
+    -   [Link to Portfolio](https://your-portfolio-url.com) (Replace with actual link)
+-   **[Project Name 3]:** [Brief description of project 3].
+    -   [Link to Project Repository](https://github.com/AhasnaCharumee/your-project-3) (Replace with actual link)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhasnaCharumee&show_icons=true&theme=radical&hide_border=true" alt="AhasnaCharumee's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhasnaCharumee&theme=radical&hide_border=true" alt="AhasnaCharumee's GitHub Streak" />
+</div>
+
+---
+
+## 🐍 GitHub Snake Animation
+
+<div align="center">
+  <img src="https://github.com/AhasnaCharumee/AhasnaCharumee/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hello!
+
+-   **LinkedIn:** [Ahasna Charumee](https://www.linkedin.com/in/ahasna-charumee/) (Replace with your actual LinkedIn URL)
+-   **Email:** [your.email@example.com](mailto:your.email@example.com) (Replace with your actual email)
+-   **GitHub:** [@AhasnaCharumee](https://github.com/AhasnaCharumee)
+
+---
+
+<div align="center">
+  <p>Made with ❤️ by Ahasna Charumee</p>
+</div>
