@@ -74,7 +74,7 @@ Here are some of the technologies and tools I work with:
 Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hello!
 
 -   **LinkedIn:** [Ahasna Charumee](https://www.linkedin.com/in/ahasna-charumee/) (Replace with your actual LinkedIn URL)
--   **Email:** [your.email@example.com](charumeeahasna@gmail.com) (Replace with your actual email)
+-   **Email:** [charumeeahasna@gmail.com](charumeeahasna@gmail.com) (Replace with your actual email)
 -   **GitHub:** [@AhasnaCharumee](https://github.com/AhasnaCharumee)
 
 ---
