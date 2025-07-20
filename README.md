@@ -59,18 +59,6 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-## 💡 Projects
-
-Here are some of my notable projects:
-
--   **Driving School Management System:** A comprehensive system developed using [mention technologies, e.g., Java, MySQL] to manage driving school operations.
-    -   [Link to Project Repository](https://github.com/AhasnaCharumee/your-driving-school-project) (Replace with actual link)
--   **Personal Portfolio Website:** My personal website showcasing my skills, projects, and experiences, built with [mention technologies, e.g., HTML, CSS, JavaScript].
-    -   [Link to Portfolio](https://your-portfolio-url.com) (Replace with actual link)
--   **[Project Name 3]:** [Brief description of project 3].
-    -   [Link to Project Repository](https://github.com/AhasnaCharumee/your-project-3) (Replace with actual link)
-
----
 
 ## 📈 GitHub Stats
 
@@ -81,20 +69,12 @@ Here are some of my notable projects:
 
 ---
 
-## 🐍 GitHub Snake Animation
-
-<div align="center">
-  <img src="https://github.com/AhasnaCharumee/AhasnaCharumee/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</div>
-
----
-
 ## 🤝 Connect with Me
 
 Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hello!
 
 -   **LinkedIn:** [Ahasna Charumee](https://www.linkedin.com/in/ahasna-charumee/) (Replace with your actual LinkedIn URL)
--   **Email:** [your.email@example.com](mailto:your.email@example.com) (Replace with your actual email)
+-   **Email:** [your.email@example.com](charumeeahasna@gmail.com) (Replace with your actual email)
 -   **GitHub:** [@AhasnaCharumee](https://github.com/AhasnaCharumee)
 
 ---
